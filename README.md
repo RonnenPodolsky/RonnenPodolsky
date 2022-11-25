@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔭 What I want to do!
 
-- Engineer some software
+- Engineer some software with guidance of awesome engineers!
 - Do it with React, preferably, but open to ideas
 
 ## 🎖️ What I did so far
