@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🎖️ What I'm doing to achieve that goal? 
 
-- 8-month bootcamp @masterschool.
+- 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - Creating projects.
 - Quit my job during a tech crisis.
 
