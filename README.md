@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Engineer some software with guidance of awesome engineers!
 - Do it with React, preferably, but open to ideas
 
-## 🎖️ What I did so far
+## 🎖️ What I used to do
 
 - Product management
 - Data analysis
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - SIEM engineering
 - Team leading
 
-
-## 💫 What I'm doing to achieve that goal? 
+## 💫 What I'm doing to achieve my goal? 
 
 - 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web) since June 2022.
 - 👷 Building projects.
