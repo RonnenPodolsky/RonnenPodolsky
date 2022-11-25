@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 What I want to Do
+## 🔭 What I want to do!
 
 - Engineer some software
 - Do it with React, preferably, but open to ideas
@@ -29,17 +29,15 @@ Here are some ideas to get you started:
 - Team leading
 
 
-## 🎖️ Extensive Experience 
+## 🎖️ What I'm doing to achieve that goal? 
 
-- Teaching and mentoring students
-- Recruting, training, and leading teams
-- Planning and overseeing long term projects
-- Taking part and overseeing software development 
+- 8-month bootcamp @masterschool.
+- Creating projects.
+- Quit my job during a tech crisis.
 
 ## ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
-- [Articles](https://david-l-r.medium.com/)
 - [Website](🔜)
 
 ## 🤖 Tech Stack
@@ -48,7 +46,8 @@ Here are some ideas to get you started:
 - HTML & CSS (❤️ Tailwind)
 - Frontend Libraries: React
 - Frontend Frameworks: 🔜 NextJS
-- Backend: Node & Express
+- Backend: Node & 
+
 - Testing: Jest
 - Version control: Git
 - Databases: MongoDB, Postgres, Firebase
@@ -65,11 +64,11 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 
 
 </p>
