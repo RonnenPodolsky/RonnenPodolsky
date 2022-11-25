@@ -54,14 +54,22 @@ Here are some ideas to get you started:
 - Databases: MongoDB, Postgres, Firebase
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="8%" alt="Typescript logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="8%" alt="Javascript logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="8%" alt="CSS logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149814154-3de042e2-bccf-4f0e-8d0e-98a2dbcae7c0.png" width="8%" alt="HTML logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149943049-95f0909a-9c2b-4fae-bd04-647d531dd10d.png" width="8%" alt="NODE logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149814008-745c7736-7881-41b9-bc0b-3b9a7c9ab087.png" width="8%" alt="Jest logo">
-  <img src="https://user-images.githubusercontent.com/31222514/149814004-a3a2bf91-a257-4d1c-bdff-e1079a524359.png" width="8%" alt="GIT logo">
-  <img src="https://user-images.githubusercontent.com/31222514/155521312-96e008ba-1d5e-409f-aaec-ca229ca275c6.jpeg" width="8%" alt="Postgres logo">
-  <img src="https://user-images.githubusercontent.com/31222514/155521092-8b9f303b-6f1e-406c-9ba6-4a00068ef73a.png" width="8%" alt="MongoDB logo">
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
+  <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
+<a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
+
+
 </p>
