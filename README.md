@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Team leading
 
 
-## 🎖️ What I'm doing to achieve that goal? 
+## 💫 What I'm doing to achieve that goal? 
 
 - 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - Creating projects.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
 - [Website](🔜)
 
-## 🤖 Tech Stack
+## 👨‍💻 Tech Stack
 
 - Languages: Javascript, 🔜 TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind)
