@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 💫 What I'm doing to achieve my goal? 
 
 - 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web) since June 2022.
-- 👷 Building projects.
+- 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 - 💪 Quit my job during a tech crisis.
 
 ## ℹ️ More Info
