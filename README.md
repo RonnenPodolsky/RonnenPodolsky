@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
-- [Website](https://RonnenPodolsky.github.io) 🔜
+- [Website]() 🔜
 
 ## 👨‍💻 Tech Stack
 
