@@ -28,20 +28,20 @@ Here are some ideas to get you started:
 - SIEM engineering
 - Team leading
 
-## 💫 What I'm doing to achieve my goal? 
+## 💫 What I did to achieve my goal? 
 
-- 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web) since June 2022.
+- 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 - 💪 Quit my job during a tech crisis.
 
 ## ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
-- [Website]() 🔜
+- [Website](https://ronnenpodolsky.com/)
 
 ## 👨‍💻 Tech Stack
 
-- Languages: Javascript, 🔜 TypeScript, Python, SQL
+- Languages: Javascript, TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind)
 - Frontend Libraries: React
 - Frontend Frameworks: 🔜 NextJS
