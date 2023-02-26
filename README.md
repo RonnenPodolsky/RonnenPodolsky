@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 What I want to do!
+## 🔭 My goal
 
 - Engineer some software with guidance of awesome engineers!
 - Do it with React, preferably, but can learn other frameworks quickly 
 
 ## 🎖️ What I used to do
 
-- Product management
-- Data analysis
-- Cyber research
-- SIEM engineering
-- Team leading
+- Product management and Data analysis
 
 ## 💫 What I did to achieve my goal? 
 
@@ -44,7 +40,7 @@ Here are some ideas to get you started:
 - Languages: Javascript, TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind)
 - Frontend Libraries: React
-- Frontend Frameworks: 🔜 NextJS
+- Frontend Frameworks: NextJS
 - Backend: Node & Express
 - Testing: Jest
 - Version control: Git
