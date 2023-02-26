@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🔭 My goal
 
 - Engineer some software with guidance of awesome engineers!
-   - s
+   - currently working on a Frontend React project for a client
 - Do it with React, preferably, but can learn other frameworks quickly 
 
 ## 🎖️ What I used to do
