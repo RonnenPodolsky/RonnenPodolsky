@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ## 🔭 My goal
 
 - Engineer some software with guidance of awesome engineers!
-   - currently working on a Frontend React project for a client
-- Do it with React, preferably, but can learn other frameworks quickly 
+   - Currently working on a Frontend React project for a client.
+- Become a React expert, but open to learn other frameworks. 
 
 ## 🎖️ What I used to do
 
-- Product management and Data analysis
+- Product management and Data analysis.
 
 ## 💫 What I did to achieve my goal? 
 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ## 👨‍💻 Tech Stack
 
 - Languages: Javascript, TypeScript, Python, SQL
-- HTML & CSS (❤️ Tailwind)
+- HTML & CSS (❤️ Tailwind and Chakra UI)
 - Frontend Libraries: React
-- Frontend Frameworks: NextJS
+- Fullstack React Frameworks: Next
 - Backend: Node & Express
 - Testing: Jest
 - Version control: Git
