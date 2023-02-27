@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![RonnenPodolsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnenPodolsky&hide=stars,issues&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnenPodolsky&layout=compact&theme=dracula&hide=css,html,scss&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnenPodolsky&layout=compact&theme=dracula&hide=css,html,scss&card_width=150)
 
 
 ## 🔭 My goals for 2023
