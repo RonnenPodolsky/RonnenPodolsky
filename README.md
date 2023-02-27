@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    - Currently working on a Frontend React project for a client.
 - Become a React expert, but open to learn other frameworks. 
 
-## 🎖️ What I used to do
+## 🎖️ What I used to do in 2013-2022
 
 - Product management and Data analysis.
 
