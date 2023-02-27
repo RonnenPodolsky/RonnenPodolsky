@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![RonnenPodolsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnenPodolsky&show_icons=true&theme=dracula)
 
 
-## 🔭 My goal
+## 🔭 My goals for 2023
 
 - Engineer some software with guidance of awesome engineers!
    - Currently working on a Frontend React project for a client.
