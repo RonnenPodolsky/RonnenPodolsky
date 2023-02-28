@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 - Product management and Data analysis.
 
-### 💫 What I did to achieve my goal? 
+##### 💫 What I did to achieve my goal? 
 
 - 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 - 💪 Quit my job during a tech crisis.
 
-## ℹ️ More Info
+##### ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
 - [Website](https://ronnenpodolsky.com/)
