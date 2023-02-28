@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 ## 🔭 My goals for 2023
 
-- Engineer some software with guidance of awesome engineers!
+- Engineer quality software with guidance of awesome engineers!
    - Currently working on a Frontend React project for a client.
-- Become a React expert, but open to learn other frameworks. 
+- Becoming the best React developer I can be. 
 
-## 🎖️ What I used to do in 2013-2022
+### 🎖️ What I used to do in 2013-2022
 
 - Product management and Data analysis.
 
-## 💫 What I did to achieve my goal? 
+### 💫 What I did to achieve my goal? 
 
 - 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
