@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 - 💪 Quit my job during a tech crisis.
 
-##### ℹ️ More Info
+### ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
 - [Website](https://ronnenpodolsky.com/)
 
-## 👨‍💻 Tech Stack
+### 👨‍💻 Tech Stack
 
 - Languages: Javascript, TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind and Chakra UI)
