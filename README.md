@@ -25,11 +25,11 @@ Here are some ideas to get you started:
    - Currently working on a Frontend React project for a client.
 - Becoming the best React developer I can be. 
 
-### 🎖️ What I used to do in 2013-2022
+#### 🎖️ What I used to do in 2013-2022
 
 - Product management and Data analysis.
 
-##### 💫 What I did to achieve my goal? 
+#### 💫 What I did to achieve my goal? 
 
 - 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
