@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🔭 My goals for 2023
 
 - Engineer quality software with guidance of awesome engineers!
-   - Currently working on a Frontend React project for a client.
+   - Currently working on a React project @BYON IT Solutions.
 - Becoming the best React developer I can be. 
 
 #### 🎖️ What I used to do in 2013-2022
