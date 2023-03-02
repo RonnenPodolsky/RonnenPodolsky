@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnenPodolsky&layout=compact&theme=dracula&hide=css,html,scss&card_width=150)
 
 
+### <div align="center">I'm  a Full Stack developer 💻</div>  
 
 
-## 🔭 Who am I?
+## 🔭 What I'm doing?
 
-- Full Stack Engineer in the JavaScript ecosystem
 - Currently focusing on Frontend (React) @ Byon.
 
 #### 🎖️ What I used to do in 2013-2022
