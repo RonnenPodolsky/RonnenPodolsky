@@ -19,19 +19,14 @@ Here are some ideas to get you started:
 
 
 
-## 🔭 My goals for 2023
+## 🔭 Who am I?
 
-- Engineer quality software with guidance of awesome engineers!
-   - Currently working on a React project @BYON IT Solutions.
-- Becoming the best React developer I can be. 
+- Full Stack Engineer, currently focusing on Frontend (React) @ Byon.
 
 #### 🎖️ What I used to do in 2013-2022
 
-- Product management and Data analysis.
-
-#### 💫 What I did to achieve my goal? 
-
-- 🧑‍💻 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
+- Mainly Product management and Data analysis.
+- 🧑‍💻 Completed an 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 - 💪 Quit my job during a tech crisis.
 
