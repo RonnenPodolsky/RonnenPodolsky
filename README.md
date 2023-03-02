@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <!--
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnenPodolsky&layout=compact&theme=dracula&hide=css,html,scss&card_width=150)
 
 
-### <div align="center">I'm  a Full Stack developer 💻</div>  
+### I'm  a Full Stack Engineer 💻</div>  
 
 
 ## 🔭 What I'm doing?
