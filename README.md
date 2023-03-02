@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Who am I?
 
-- Full Stack Engineer, currently focusing on Frontend (React) @ Byon.
+- Full Stack Engineer in the JavaScript ecosystem
+- Currently focusing on Frontend (React) @ Byon.
 
 #### 🎖️ What I used to do in 2013-2022
 
