@@ -11,22 +11,22 @@
 </div>  
 
 
-## 🔭 What I'm doing?
+### 🔭 What I'm doing?
 
 - Currently focusing on Frontend (React) @ Byon.
 
-#### 🎖️ What I used to do in 2013-2022
+### 🎖️ What I used to do in 2013-2022
 
 - 📦 Product management and Data analysis.
 - 🧑‍💻 Completed an 8-month bootcamp @[masterschool](https://github.com/Masterschool-Web).
 - 👷 Building projects. Checkout https://we-got-u-3.vercel.app/.
 
-### ℹ️ More Info
+#### ℹ️ More Info
 
 - [LinkedIn](https://www.linkedin.com/in/ronnen-podolsky/)
 - [Website](https://ronnenpodolsky.com/)
 
-### 👨‍💻 Tech Stack
+#### 👨‍💻 Tech Stack
 
 - Languages: Javascript, TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind and Chakra UI)
