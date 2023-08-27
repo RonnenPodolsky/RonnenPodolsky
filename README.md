@@ -11,9 +11,9 @@
 </div>  
 
 
-### 🔭 What I'm doing?
+### 🔭 What am I doing?
 
-- Currently focusing on Frontend (React) @ Byon.
+- Fullstack @ Haroshemet.
 
 ### 🎖️ What I used to do in 2013-2022
 
@@ -31,7 +31,7 @@
 - Languages: Javascript, TypeScript, Python, SQL
 - HTML & CSS (❤️ Tailwind and Chakra UI)
 - Frontend Libraries: React
-- Fullstack React Frameworks: Next
+- Fullstack React Frameworks: Next.js
 - Backend: Node & Express
 - Testing: Jest
 - Version control: Git
